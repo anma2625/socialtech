@@ -458,7 +458,7 @@ footer {
   /* PC用ナビゲーション非表示 */
   #nav-pc {
     display: none;
-    display: none; // 非表示
+
   }
 
   /* ハンバーガーメニュー */
@@ -468,7 +468,6 @@ footer {
     float: right;
     padding: 0;
     border: none;
-    display: none; // 非表示
   } 
 
   /* スマホ用ナビゲーションの表示切替*/
